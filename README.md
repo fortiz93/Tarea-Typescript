@@ -98,9 +98,11 @@ TypeScript solo valida los tipos mientras estoy programando y compilando. Una ve
 ### 7. Evidencias
 
 * Comprobación de Tipos sin Emisión (`npx tsc --noEmit`)
+
 ![alt text](image.png)
 
 * Compilación a JavaScript (`npx tsc`)
+
 ![alt text](image-1.png)
 
 * Ejecución de Aplicación (`node dist/index.js`)
